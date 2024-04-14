@@ -11,7 +11,7 @@ const styles = {
 	global: (props) => ({
 		body: {
 			bg: mode("gray.900", "black")(props),
-			color: mode("black", "black")(props),
+			color: mode("white", "white")(props),
 		},
 	}),
 };
