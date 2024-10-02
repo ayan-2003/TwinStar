@@ -2,7 +2,8 @@
 
 Welcome to **Twinstar**! 🌌 A social media platform inspired by Instagram, where users can create accounts, post updates, comment on posts, and like their favorite content. This project is built using React, Firebase, Bootstrap, and more! 🚀
 
-## 🎈 Demo Link - (twin-star.vercel.app)
+## 🎈 Demo Link - 
+twin-star.vercel.app
 
 ## 📖 Table of Contents
 
