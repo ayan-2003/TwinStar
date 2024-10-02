@@ -1,5 +1,3 @@
-Sure! Here’s an interactive README for your Twinstar social media website, complete with emojis:
-
 # 🌟 Twinstar - Social Media Platform
 
 Welcome to **Twinstar**! 🌌 A social media platform inspired by Instagram, where users can create accounts, post updates, comment on posts, and like their favorite content. This project is built using React, Firebase, Bootstrap, and more! 🚀
